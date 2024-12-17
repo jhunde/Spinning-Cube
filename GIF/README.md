@@ -1,5 +1,5 @@
 # Spinning Cube 
-> **Note:** This is the outpout of the `cube.c` file.
+> **Note:** This is the output of the `cube.c` file.
 
 
 ![output](/GIF/output.gif)
